@@ -1,0 +1,7 @@
+.warning {
+  border: 3px solid red;
+}
+
+.strikeOutDelete {
+  text-decoration: line-through;
+}
